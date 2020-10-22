@@ -1,3 +1,5 @@
+See this project live: https://netflix-clone-2-3ab58.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
